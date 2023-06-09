@@ -17,5 +17,9 @@ To get started with the Finance Frontend project, follow these steps:
 
 1. Clone the repository to your local machine:
 
+this [link](https://github.com/your-username/finance-frontend.git) you can copy 
+
    ```shell
-   this [link](https://github.com/your-username/finance-frontend.git) you can copy 
+   git remote add origin https://github.com/AylinDenizz/patikaodev1.git
+git branch -M main
+git push -u origin main
