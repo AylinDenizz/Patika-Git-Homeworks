@@ -18,4 +18,4 @@ To get started with the Finance Frontend project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```shell
-   this [link] (https://github.com/your-username/finance-frontend.git) you can copy 
+   this [link](https://github.com/your-username/finance-frontend.git) you can copy 
