@@ -10,3 +10,4 @@ builds/**/images/*
 *.exe
 *.test
 *.prof
+test.html
