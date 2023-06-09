@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Finance App</title>
+    <link rel="stylesheet" href="static/css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Finance App</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/transactions">Transactions</a></li>
+            <!-- Add additional navigation links as needed -->
+        </ul>
+    </nav>
+    <main>
+        <h2>Welcome to the Finance App!</h2>
+        <p>Manage your financial transactions and keep track of your finances.</p>
+    </main>
+    <footer>
+        <p>&copy; 2023 Finance App. All rights reserved.</p>
+    </footer>
+    <script src="static/js/main.js"></script>
+</body>
+</html>
